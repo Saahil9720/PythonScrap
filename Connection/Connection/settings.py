@@ -78,7 +78,7 @@ DATABASES = {
         'NAME': 'PythonScrap',
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
-            'host': 'mongodb+srv://saahilvekariya20:LpXBKo9Ot9wXoxo1@cluster0.jexg3i0.mongodb.net/?retryWrites=true&w=majority',
+            'host': '',#keep MongoDB connection string here
         }
     }
 }
