@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 # Replace the following variables with your own values
-your_connection_string = "mongodb+srv://saahilvekariya20:LpXBKo9Ot9wXoxo1@cluster0.jexg3i0.mongodb.net/?retryWrites=true&w=majority"
+your_connection_string = "" #Keep MongoDB connection string here
 db_name = "PythonScrap"
 collection_name = "Test"
 
